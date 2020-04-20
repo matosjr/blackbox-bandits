@@ -6,8 +6,8 @@
     "online_lr": 0.1,
     "exploration": 0.01,
     "epsilon": 5.0,
-    "batch_size": 500,
-    "gradient_iters": 1,
-    "total_images": 10000,
+    "batch_size": 5,
+    "gradient_iters": 2,
+    "total_images": 20,
     "tile_size": 50
 }    
